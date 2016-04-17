@@ -1,2 +1,2 @@
-My name is chenxingyu,
-I love Computer Science!
+My nme is chenxingyu,
+I lve Computer Science!
